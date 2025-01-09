@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.util.Random;
 
+//Justin Suárez
+
 public class Main {
     public static void main(String[] args) {
 
